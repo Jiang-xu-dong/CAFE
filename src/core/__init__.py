@@ -1,0 +1,1 @@
+from .fusion_detector import FusionNSFWDetector
