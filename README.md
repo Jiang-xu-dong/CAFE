@@ -1,6 +1,7 @@
 # CAFE
 
-This repository is the official implementation of "Cross-source Evidence Tells Us More: Spotting Metaphorical NSFW Content".
+This repository is the official implementation of "Perception is Not Enough: Intent Reasoning for
+Metaphorical NSFW Detection".
 
 ## 📦 Environment Setup
 
