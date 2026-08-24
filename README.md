@@ -1,7 +1,6 @@
 # CAFE
 
-This repository is the official implementation of "Perception is Not Enough: Intent Reasoning for
-Metaphorical NSFW Detection".
+This repository is the official implementation of "Perception is Not Enough: Intent Reasoning for Metaphorical Unsafe Video".
 
 ## 📦 Environment Setup
 
